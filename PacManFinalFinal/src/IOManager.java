@@ -6,6 +6,8 @@ import becker.robots.City;
 import becker.robots.Direction;
 import becker.robots.Thing;
 
+
+// This is from where the application starts 
 public class IOManager {
 
 	public Random r = new Random();
